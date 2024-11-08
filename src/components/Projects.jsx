@@ -19,15 +19,15 @@ const Projects = () => {
             image : keiSneaker,
             desc : " A full-stack e-commerce platform built to showcase and sell sneakers.In this project,I used this languages.",
             langs : ['React Js','Node Js','Swiper Js','Firebase','Tailwind'],
-            github_link : "https://www.google.com",
-            demo_link : ""
+            github_link : "https://github.com/Naingmoekhant0098/keiSneaker",
+            demo_link : "https://keisneaker-8da6.onrender.com/"
         },
         {
             title: 'Huddle Landing Website',
             image : huddle,
             desc : "A single huddle landing clone website that build with javascript and css only.",
             langs : ['Javascript','Css','Bootstrap','Fontawesome'],
-            github_link : "",
+            github_link : "https://github.com/Naingmoekhant0098/huddle",
             demo_link : ""
         },
         {
@@ -35,15 +35,15 @@ const Projects = () => {
             image : chat,
             desc : "A full stack chat application is a real-time messaging platform that allows users to communicate with each other through instant text messages. It typically involves both a frontend and backend.",
             langs : ['React Js','Node Js','Firebase','Tailwind'],
-            github_link : "",
-            demo_link : ""
+            github_link : "https://github.com/Naingmoekhant0098/keiChat",
+            demo_link : "https://keichat-6.onrender.com/"
         },
         {
             title: 'Sunny Blog Landing Website',
             image : sunny,
             desc : "A single sunny landing clone website that build with javascript and css only.",
             langs : ['Javascript','Css','Bootstrap','Fontawesome'],
-            github_link : "",
+            github_link : "https://github.com/Naingmoekhant0098/sunny",
             demo_link : ""
         },
         {
@@ -51,7 +51,7 @@ const Projects = () => {
             image : bookmark,
             desc : " A single bookmark landing clone website that build with javascript and css only.",
             langs : ['Javascript','Css','Bootstrap','Fontawesome'],
-            github_link : "",
+            github_link : "https://github.com/Naingmoekhant0098/bookmark-landing",
             demo_link : ""
         },
         {
@@ -59,31 +59,31 @@ const Projects = () => {
             image : doge,
             desc : " A full-stack e-commerce platform built to showcase and sell sneakers. I developed this project to demonstrate my skills in creating responsive, user-friendly web applications.",
             langs : ['React Js','Node Js','Swiper Js','Tailwind'],
-            github_link : "",
-            demo_link : ""
+            github_link : "https://github.com/Naingmoekhant0098/doge-net",
+            demo_link : "https://doge-net.onrender.com"
         },
         {
             title: 'Central Movie Website',
             image : central,
             desc : "The central movie web app which give you the detail of many movie show and Tv serices with the real rating of IMDB  and you can find many old movie in one place.",
             langs : ['React Js','Dmdb Api','Swiper Js','Tailwind'],
-            github_link : "",
-            demo_link : ""
+            github_link : "https://github.com/Naingmoekhant0098/central-movie",
+            demo_link : "https://naingmoekhant0098.github.io/central-movie"
         },
         {
             title: 'Crypto Tracker Website',
             image : crypto,
             desc : "A crypto tracker web application which show you a real time crypto market price with data charts.",
             langs : ['React Js','Tailwind','Chart Js'],
-            github_link : "",
-            demo_link : ""
+            github_link : "https://github.com/Naingmoekhant0098/crypto_tracker",
+            demo_link : "https://naingmoekhant0098.github.io/crypto_tracker"
         },
         {
             title: 'Kazuki Admin Panel',
             image : admin,
             desc : "A single admin dashboard that built with javascript and bootstrap.",
             langs : ['Javascript','Css','Chart Js','Bootstrap'],
-            github_link : "",
+            github_link : "https://github.com/Naingmoekhant0098/Adminpanel",
             demo_link : ""
         },
     ]
