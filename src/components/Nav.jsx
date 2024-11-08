@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Button, Drawer } from "flowbite-react";
 import cv from '../assets/cv.jpg';
+import logo from '../assets/logo.png';
 const Nav = () => {
     const [isOpen, setIsOpen] = useState(false);
     const[showNavbar , setShowNavBar] = useState('topNav');
@@ -76,7 +77,7 @@ const Nav = () => {
         <>
         <div className={` flex   px-4 md:px-0 justify-between items-center  fixed z-20  md:left-14 left-0 right-0 md:right-14  top-0 navBar ${showNavbar}`}>
             <div>
-                <img src="/khantty.png" alt="" className='  w-20 md:w-24 ' />
+                <img src={logo} alt="" className='  w-20 md:w-24 ' />
             </div>
             <div className="hidden md:flex lg:flex navs gap-7  items-center cursor-pointer uppercase font-semibold tracking-wider" style={{ fontSize: '14px' }}>
                 <a href='#about' className="about  nav  opacity-70">About</a>
