@@ -15,7 +15,7 @@ const Banner = () => {
                     </div>
                     <div className='mt-4 w-full md:w-[85%]  text-[14px] md:text-[15px]' style={{ opacity: .6 }} data-aos="fade-up" data-aos-offset="200" data-aos-delay="200" data-aos-easing="ease-in-out" data-aos-duration="500" >I'm a passinate developer dedicated to building innovative web design and application.With expertise in various technologies.</div>
                     <div className=' relative mt-6 ' data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="250">
-                        <div className="border w-[120px] md:w-[150px] h-[50px] flex items-center ease-in-out justify-center  z-10  absolute top-0 left-0  hover:-top-1 hover:-left-1 text-center cursor-pointer  text-[14px] md:text-[16px] font-semibold   border-1 border-[#40b4bd]  text-[#40b4bd] transition-all duration-300   px-6  bg-[#112046]" >Hire Me</div>
+                        <a href="#contact"><div className="border w-[120px] md:w-[150px] h-[50px] flex items-center ease-in-out justify-center  z-10  absolute top-0 left-0  hover:-top-1 hover:-left-1 text-center cursor-pointer  text-[14px] md:text-[16px] font-semibold   border-1 border-[#40b4bd]  text-[#40b4bd] transition-all duration-300   px-6  bg-[#112046]" >Hire Me</div></a>
                         <div className='w-[120px] md:w-[150px] h-[50px] bg-[#40b4bd]'></div>
                     </div>
 
