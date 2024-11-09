@@ -45,7 +45,7 @@ const Contact = () => {
                     <div className=' w-full md:w-[400px]'>
                         <h4 className=' text-2xl md:text-3xl font-semibold tracking-wider opacity-75'  data-aos="fade-up" data-aos-delay="50" data-aos-easing="ease-in-out" data-aos-duration="500">Get In Touch !</h4>
                         <div className=' mt-4 text-[14px] md:text-[16px] opacity-70 tracking-wider ' data-aos="fade-up" data-aos-delay="100" data-aos-easing="ease-in-out" data-aos-duration="500">
-                            Have questions of want to work together on your next project ?
+                            Have questions or want to work together on your next project ?
                         </div>
                         <div className='  mt-6 opacity-70 flex flex-col w-auto  mx-auto gap-4 ' data-aos="fade-up" data-aos-delay="150" data-aos-easing="ease-in-out" data-aos-duration="500">
 

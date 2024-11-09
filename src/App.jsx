@@ -24,11 +24,12 @@ const App = () => {
         }
 
   })
+   if(loader){
+    return <Loader />
+   }
   return (
   <>
-  {
-    loader &&  <Loader />
-  }
+  
  
    
 
